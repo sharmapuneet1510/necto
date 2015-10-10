@@ -3,6 +3,8 @@
 	<name>plusConnect-client</name>
 	<comment></comment>
 	<projects>
+		<project>plusConnect</project>
+		<project>plusConnect-service</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
