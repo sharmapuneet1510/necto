@@ -20,5 +20,5 @@ public class Timeline implements Serializable
 
 		private User user;
 
-		private Set<ReferralPost> referralPosts;
+		private Set<Post> post;
 	}
